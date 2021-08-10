@@ -1,0 +1,14 @@
+{
+  "name": "custom-media-player",
+  "version": "1.0.0",
+  "description": "Media streaming server",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "codernetic",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
